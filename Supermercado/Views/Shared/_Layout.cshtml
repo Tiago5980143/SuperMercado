@@ -1,0 +1,44 @@
+﻿@model Fornecedor;
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Mercado </title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ProjetoGigiDede.styles.css" asp-append-version="true" />
+    
+</head>
+
+<body>
+    <header>
+        <h1>Sistema de Supermercado</h1>
+        <p>Projeto de Banco de Dados - Supermercado</p>
+    </header>
+
+    <nav>
+        <button asp-controller="Home" asp-action="Fornecedor" class="tab-button active" data-section="fornecedores">Fornecedores</button>
+        <button asp-controller="Home" asp-action="Produto" class="tab-button" data-section="produtos">Produtos</button>
+        <button asp-controller="Home" asp-action="Usuario" class="tab-button" data-section="clientes">Clientes</button>
+        <button asp-controller="Home" asp-action="Venda" class="tab-button" data-section="vendas">Vendas</button>
+    </nav>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <small>Projeto de Banco de Dados - Supermercado | ETEC Prof. Basilides de Godoy</small>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/site.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

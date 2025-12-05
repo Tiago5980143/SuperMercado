@@ -1,0 +1,177 @@
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\appsettings.Development.json
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\appsettings.json
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.staticwebassets.runtime.json
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.exe
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.deps.json
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.runtimeconfig.json
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.pdb
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\Google.Protobuf.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\MySql.Data.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\System.IO.Pipelines.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\System.Text.Json.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\ZstdSharp.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.csproj.AssemblyReference.cache
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.AssemblyInfoInputs.cache
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.AssemblyInfo.cs
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.csproj.CoreCompileInputs.cache
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.MvcApplicationPartsAssemblyInfo.cache
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.RazorAssemblyInfo.cache
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.RazorAssemblyInfo.cs
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\staticwebassets.build.json
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\staticwebassets.development.json
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\staticwebassets\msbuild.Supermercado.Microsoft.AspNetCore.StaticWebAssets.props
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\staticwebassets\msbuild.build.Supermercado.props
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Supermercado.props
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Supermercado.props
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\staticwebassets.pack.json
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\scopedcss\bundle\Supermercado.styles.css
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\scopedcss\projectbundle\Supermercado.bundle.scp.css
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\Supermer.F0BE87B0.Up2Date
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\refint\Supermercado.dll
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.pdb
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.genruntimeconfig.cache
+F:\2A-DS-PI\Forli e Brito\Projeto BDDS\Supermercado\Supermercado\obj\Debug\net8.0\ref\Supermercado.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\appsettings.json
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.staticwebassets.runtime.json
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.staticwebassets.endpoints.json
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.exe
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.deps.json
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.runtimeconfig.json
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.pdb
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.csproj.AssemblyReference.cache
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.AssemblyInfoInputs.cache
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.AssemblyInfo.cs
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.RazorAssemblyInfo.cache
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.RazorAssemblyInfo.cs
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\scopedcss\bundle\Supermercado.styles.css
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\scopedcss\projectbundle\Supermercado.bundle.scp.css
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\Supermer.F0BE87B0.Up2Date
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\refint\Supermercado.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.pdb
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.genruntimeconfig.cache
+C:\Users\2ds\Desktop\Supermercado\Supermercado\obj\Debug\net8.0\ref\Supermercado.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Humanizer.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2ds\Desktop\Supermercado\Supermercado\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll

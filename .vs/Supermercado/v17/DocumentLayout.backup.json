@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2ds\\Desktop\\Supermercado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FBE002-F02D-48EC-96DF-5B3151A5BF19}|Supermercado\\Supermercado.csproj|c:\\users\\2ds\\desktop\\supermercado\\supermercado\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FBE002-F02D-48EC-96DF-5B3151A5BF19}|Supermercado\\Supermercado.csproj|solutionrelative:supermercado\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2ds\\Desktop\\Supermercado\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FBE002-F02D-48EC-96DF-5B3151A5BF19}|Supermercado\\Supermercado.csproj|c:\\users\\2ds\\desktop\\supermercado\\supermercado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4FBE002-F02D-48EC-96DF-5B3151A5BF19}|Supermercado\\Supermercado.csproj|solutionrelative:supermercado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FBE002-F02D-48EC-96DF-5B3151A5BF19}|Supermercado\\Supermercado.csproj|c:\\users\\2ds\\desktop\\supermercado\\supermercado\\views\\usu\u00E1rio\\cadastro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FBE002-F02D-48EC-96DF-5B3151A5BF19}|Supermercado\\Supermercado.csproj|solutionrelative:supermercado\\views\\usu\u00E1rio\\cadastro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FBE002-F02D-48EC-96DF-5B3151A5BF19}|Supermercado\\Supermercado.csproj|c:\\users\\2ds\\desktop\\supermercado\\supermercado\\views\\usu\u00E1rio\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4FBE002-F02D-48EC-96DF-5B3151A5BF19}|Supermercado\\Supermercado.csproj|solutionrelative:supermercado\\views\\usu\u00E1rio\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FBE002-F02D-48EC-96DF-5B3151A5BF19}|Supermercado\\Supermercado.csproj|c:\\users\\2ds\\desktop\\supermercado\\supermercado\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FBE002-F02D-48EC-96DF-5B3151A5BF19}|Supermercado\\Supermercado.csproj|solutionrelative:supermercado\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2ds\\Desktop\\Supermercado\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Supermercado\\script.js",
+              "RelativeDocumentMoniker": "script.js",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\Supermercado\\script.js",
+              "RelativeToolTip": "script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-05T13:38:05.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Supermercado\\Supermercado\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Supermercado\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\Supermercado\\Supermercado\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Supermercado\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T13:34:53.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cadastro.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Supermercado\\Supermercado\\Views\\Usu\u00E1rio\\Cadastro.cshtml.cs",
+              "RelativeDocumentMoniker": "Supermercado\\Views\\Usu\u00E1rio\\Cadastro.cshtml.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\Supermercado\\Supermercado\\Views\\Usu\u00E1rio\\Cadastro.cshtml.cs",
+              "RelativeToolTip": "Supermercado\\Views\\Usu\u00E1rio\\Cadastro.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:34:58.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cadastro.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Supermercado\\Supermercado\\Views\\Usu\u00E1rio\\Cadastro.cshtml",
+              "RelativeDocumentMoniker": "Supermercado\\Views\\Usu\u00E1rio\\Cadastro.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\Supermercado\\Supermercado\\Views\\Usu\u00E1rio\\Cadastro.cshtml",
+              "RelativeToolTip": "Supermercado\\Views\\Usu\u00E1rio\\Cadastro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T13:34:55.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Supermercado\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\Supermercado\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:28:15.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Supermercado\\Supermercado\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Supermercado\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\Supermercado\\Supermercado\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Supermercado\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:10:55.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Supermercado\\Supermercado\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Supermercado\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\Supermercado\\Supermercado\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Supermercado\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:26:04.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

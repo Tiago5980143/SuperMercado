@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Supermercado",
+    "\\Supermercado\\Models",
+    "\\Supermercado\\Properties",
+    "\\Supermercado\\Views",
+    "\\Supermercado\\Views\\Home",
+    "\\Supermercado\\Views\\Shared",
+    "\\Supermercado\\wwwroot",
+    "\\Supermercado\\wwwroot\\css",
+    "\\Supermercado\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\Supermercado\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
